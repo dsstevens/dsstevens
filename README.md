@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Deanna  👩‍💻
 👀 I’m interested in open source projects, accessibility in tech and optimizing user experience through better software design  
 
-💾  I’m currently learning Javascript, HTML and CSS at Turing School of Software Design.
+💾  I’m currently self-teaching TypeScript, Tailwind, and UX animations at Turing School of Software Design.
 
 🌎 I love traveling, cooking for friends, and going for hikes and bike rides.
 
