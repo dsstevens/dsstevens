@@ -1,9 +1,9 @@
 ## 👋 Hi, I’m Deanna  👩‍💻
 👀 I’m interested in open source projects, accessibility in tech and optimizing user experience through better software design  
 
-💾  I’m currently self-teaching TypeScript, Tailwind, and UX animations at Turing School of Software Design.
+💾  I’m currently a software apprentice at 7Factor software developing my skills in React, C# and writing good code TDD style.
 
-🌎 I love traveling, cooking for friends, and going for hikes and bike rides.
+🌎 I love traveling, cooking for friends, and gardening.
 
 
 
