@@ -1,9 +1,9 @@
-## 👋 Hi, I’m Deanna  👩‍💻
-👀 I’m interested in open source projects, accessibility in tech and optimizing user experience through better software design  
+## 👋 Hi, I’m Deanna  👩‍💻🐈‍⬛📚
+👀 I’m interested in open source projects and accessibility in tech perpetually focused on human-centered design.
 
-💾  I’m currently a software apprentice at 7Factor software developing my skills in React, C# and writing good code TDD style.
+💾  I’m currently working freelance, focusing on e-commerce sites for small businesses and as a Business Systems Analyst with the University System of Georgia.
 
-🌎 I love traveling, cooking for friends, and gardening.
+🌎 I love traveling, cooking for friends, and gardening. Ask me about my chaos garden!
 
 
 
