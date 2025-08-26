@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Deanna  👩‍💻🐈‍⬛📚
-👀 I’m interested in open source projects and accessibility in tech perpetually focused on human-centered design.
+👀 I’m interested in open source projects, accessibility in tech, and perpetually focused on human-centered design.
 
 💾  I’m currently working freelance, focusing on e-commerce sites for small businesses and as a Business Systems Analyst with the University System of Georgia.
 
